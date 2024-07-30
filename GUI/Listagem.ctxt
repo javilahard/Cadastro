@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Listagem
+comment0.text=\r\n\ Janela\ para\ mostrar\ os\ dados\ dos\ aluno\ no\ armazenamento\r\n\r\n\ @author\ Joao\ Avila,\ Larissa\ Hipolito,\ Priscilla\ de\ Souza\ e\ Igor\ Costa\r\n\ @version\ 22/05/2024\r\n
+comment1.params=c\ menu
+comment1.target=Listagem(armazenamento.CadastroAlunos,\ Menu)
+comment2.params=
+comment2.target=void\ configurarJanela()
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ btnOkActionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ adicionarDados()
+comment5.text=\r\n\ Preenche\ os\ campos\ da\ tabela\ com\ os\ dados\ de\ cada\ aluno\r\n\r\n
+numComments=6

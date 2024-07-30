@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CadastroArrayList
+comment0.text=\r\n\ Classe\ para\ realizar\ a\ admnistracao\ dos\ alunos\ atraves\ de\ um\ arrayList\r\n\r\n\ @author\ Joao\ Avila,\ Larissa\ Hipolito,\ Priscilla\ de\ Souza\ e\ Igor\ Costa\r\n\ @version\ 22/05/2024\r\n
+comment1.params=
+comment1.target=CadastroArrayList()
+comment10.params=i
+comment10.target=java.lang.Object[]\ getDados(int)
+comment10.text=\r\n\ Pega\ os\ dados\ de\ um\ aluno\ e\ manda-os\ para\ a\ tabela\ de\ listagem\r\n\r\n\ @param\ i\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+comment2.params=lista
+comment2.target=void\ setLista(java.util.ArrayList)
+comment3.params=
+comment3.target=java.util.ArrayList\ getLista()
+comment4.params=
+comment4.target=int\ getQtd()
+comment5.params=a0
+comment5.target=void\ inserir(aluno.Aluno)
+comment6.params=ra
+comment6.target=int\ buscar(java.lang.String)
+comment7.params=i
+comment7.target=void\ remover(int)
+comment8.params=
+comment8.target=boolean\ verificarVazia()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

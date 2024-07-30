@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Armazena\ os\ dados\ especificos\ de\ um\ aluno\ alem\ dos\ de\ Pessoa\r\n\ \r\n\ @author\ Joao\ Avila,\ Larissa\ Hipolito,\ Priscilla\ de\ Souza\ e\ Igor\ Costa\r\n\ @version\ 22/05/2024\r\n
+comment1.params=nome\ idade\ rg\ ra\ curso\ disc\ semestre
+comment1.target=Aluno(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ Disciplina[],\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=ra\ qtdAlunos
+comment3.target=int\ procurarAluno(java.lang.String,\ Aluno[])
+comment3.text=\r\n\ Busca\ um\ aluno\ pelo\ RA\ para\ verificar\ se\ ele\ esta\ na\ lista\r\n\r\n\ @param\ ra\ A\ parameter\r\n\ @param\ qtdAlunos\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+comment4.params=
+comment4.target=java.lang.Object[]\ getAluno()
+comment4.text=\r\n\ Method\ getAluno\r\n\r\n\ @return\ Dados\ do\ aluno\ para\ mandar\ para\ o\ armazenador\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDisciplinas()
+comment5.text=\r\n\ Method\ getDisciplinas\r\n\r\n\ @return\ Codigo\ das\ disciplinas\ para\ mostrar\ na\ tabela\r\n
+comment6.params=
+comment6.target=int\ getQtdeDisc()
+comment6.text=\r\n\ Method\ getQtdeDisc\r\n\r\n\ @return\ Quantidade\ de\ disciplinas\ no\ vetor\r\n
+numComments=7

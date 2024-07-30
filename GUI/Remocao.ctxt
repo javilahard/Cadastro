@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Remocao
+comment0.text=\r\n\ Janela\ para\ remover\ um\ novo\ aluno\ do\ armazenamento\r\n\r\n\ @author\ Joao\ Avila,\ Larissa\ Hipolito,\ Priscilla\ de\ Souza\ e\ Igor\ Costa\r\n\ @version\ 22/05/2024\r\n
+comment1.params=c\ menu
+comment1.target=Remocao(armazenamento.CadastroAlunos,\ Menu)
+comment2.params=
+comment2.target=void\ configurarJanela()
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ btnCancelarActionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ btnRemoverActionPerformed(java.awt.event.ActionEvent)
+numComments=7

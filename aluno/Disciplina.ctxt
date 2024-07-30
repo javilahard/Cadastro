@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment0.text=\r\n\ Armazena\ os\ dados\ de\ uma\ disciplina\ especifica\ e\ transforma\ isso\ em\ uma\ string\r\n\ \r\n\ @author\ Joao\ Avila,\ Larissa\ Hipolito,\ Priscilla\ de\ Souza\ e\ Igor\ Costa\r\n\ @version\ 22/05/2024\r\n
+comment1.params=nomeDisc\ codDisc\ media
+comment1.target=Disciplina(java.lang.String,\ java.lang.String,\ float)
+comment1.text=\r\n\ Disciplina\ Constructor\r\n\r\n\ @param\ codDisc\ Codigo\ da\ disciplina\r\n\ @param\ nomeDisc\ Nome\ da\ disciplina\r\n\ @param\ media\ Media\ na\ disciplina\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Method\ toString\r\n\ \r\n\ @return\ Transforma\ os\ dados\ em\ uma\ string\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCodigo()
+numComments=4

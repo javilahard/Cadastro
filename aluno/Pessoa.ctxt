@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\r\n\ Classe\ para\ armazenar\ os\ dados\ de\ uma\ pessoa\r\n\ \r\n\ @author\ Joao\ Avila,\ Larissa\ Hipolito,\ Priscilla\ de\ Souza\ e\ Igor\ Costa\r\n\ @version\ 22/05/2024\r\n
+comment1.params=nome\ idade\ rg
+comment1.target=Pessoa(java.lang.String,\ int,\ java.lang.String)
+numComments=2

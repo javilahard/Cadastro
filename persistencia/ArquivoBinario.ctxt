@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ArquivoBinario
+comment0.text=\r\n\ Administracao\ da\ persistencia\ dos\ dados\ em\ um\ arquivo\ .bin\r\n\r\n\ @author\ Joao\ Avila,\ Larissa\ Hipolito,\ Priscilla\ de\ Souza\ e\ Igor\ Costa\r\n\ @version\ 22/05/2024\r\n
+comment1.params=cad\ nomeArq
+comment1.target=boolean\ gravarLista(armazenamento.CadastroAlunos,\ java.lang.String)
+comment2.params=nomeArq
+comment2.target=armazenamento.CadastroAlunos\ lerLista(java.lang.String)
+numComments=3

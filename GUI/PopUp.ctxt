@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PopUp
+comment0.text=\r\n\ Janela\ para\ apresentar\ mensagens\ de\ erro\ ou\ confirmacao\ de\ acao\r\n\r\n\ @author\ Joao\ Avila,\ Larissa\ Hipolito,\ Priscilla\ de\ Souza\ e\ Igor\ Costa\r\n\ @version\ 22/05/2024\r\n
+comment1.params=mensagem
+comment1.target=PopUp(java.lang.String)
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ btnOkActionPerformed(java.awt.event.ActionEvent)
+comment4.params=msg
+comment4.target=void\ setMensagem(java.lang.String)
+numComments=5
